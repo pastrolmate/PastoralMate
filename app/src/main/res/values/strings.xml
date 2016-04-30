@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PastoralMate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="move">Move!</string>
+    <string name="google_app_id">pastoralmate</string>
+    <string-array name="move_options">
+        <item>Move around</item>
+        <item>Move to Coordination</item>
+    </string-array>
+    <string name="title_activity_maps_with_move">Map</string>
+</resources>
